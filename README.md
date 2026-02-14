@@ -28,3 +28,7 @@ sudo GIT_REPO_URL='https://github.com/ofiucosource/piserver.git' GIT_BRANCH='mai
 Guía detallada (paso a paso, troubleshooting y timeline):
 
 - `docs/RPI_SETUP_RUNBOOK_ES.md`
+
+Chuleta de comandos esenciales (1 página):
+
+- `docs/CHEATSHEET_ES.md`
