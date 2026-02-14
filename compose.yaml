@@ -1,0 +1,7 @@
+services:
+  piserver:
+    build: .
+    container_name: piserver
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
