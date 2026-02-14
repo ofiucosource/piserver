@@ -22,3 +22,9 @@ Este repo está listo para usarse con tu script de despliegue:
 ```bash
 sudo GIT_REPO_URL='https://github.com/ofiucosource/piserver.git' GIT_BRANCH='main' PI_USER='pibardo' bash Untitled-1.sh
 ```
+
+## Documentación completa
+
+Guía detallada (paso a paso, troubleshooting y timeline):
+
+- `docs/RPI_SETUP_RUNBOOK_ES.md`
